@@ -1,6 +1,6 @@
-# HyperLogo Wheel Image Generator
+# HyperLogo
 
-It allows you to open any HyperSpin Database XML and automatically generate the wheel logos for it.
+Generates wheel logos from a HyperSpin Database XML.
 
 ## Installation
 
@@ -12,7 +12,7 @@ It allows you to open any HyperSpin Database XML and automatically generate the 
 
 ## Usage
 
-1. Click open and browse to your hyperspin/database/<emulator name>/<database>.xml
+1. Click open and browse to your hyperspin/database/[emulator name]/[database].xml
 
 2. Click browse and go to any folder of your choice, or the corresponding images/wheel folder
 
