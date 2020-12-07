@@ -1,0 +1,14 @@
+.vs
+*.htm
+*.tlog
+*.recipe
+*.log
+*.exe
+*.ilk
+*.pdb
+*.user
+*.filters
+*.pch
+*.res
+Release
+Debug
